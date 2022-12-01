@@ -2,6 +2,10 @@
 
 This repository contains the library for dynamic data-driven identification for supercomputer implementation of composite models under uncertainty
 
+.. image:: Alg_scheme.drawio.png
+   :alt: scheme of the composite model development
+
+
 # How to run benchmarks
 
 # Usage
